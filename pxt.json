@@ -4,7 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "stem": "github:tfabworks/pxt-stem#v1.3.0",
+        "stem": "github:tfabworks/pxt-stem#v2.0.0",
         "pxt-tfabconnect": "github:tfabworks/pxt-tfabconnect#986871af4afc960167c2c1b3c83c674c07d73b1d"
     },
     "files": [
